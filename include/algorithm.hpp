@@ -19,8 +19,8 @@ public:
 template <class KeyType>
 Graph<KeyType>* Algorithm<KeyType>::Kruskal(Graph<KeyType>*& gr, Priority_queue<KeyType>*& queue)
 {
-	int n = gr->getCount();
-	int m = gr->getRealSize();
+	int n = gr->GetCount();
+	int m = gr->GetRealSize();
 	Graph<KeyType> *tree = new Graph<KeyType>(n, m);
 	Disjoint_set<KeyType> *set = new Disjoint_set<KeyType>(n);
 	for (int i = 0; i<n; i++)
