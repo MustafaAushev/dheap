@@ -1,0 +1,21 @@
+﻿Сборка начата 22.06.2016 22:43:36.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\test\test.vcxproj" в узле 4 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /I../../../gtest /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\test\test-queue.cpp" ..\..\..\test\test_graph.cpp ..\..\..\test\test_heap.cpp ..\..\..\test\test_main.cpp ..\..\..\test\test_set.cpp ..\..\..\test\test_table.cpp ..\..\..\test\test_tree.cpp
+         test_tree.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\test\test_tree.cpp(2): fatal error C1083: Не удается открыть файл включение: binary_search_tree.h: No such file or directory
+         test_table.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\test\test_table.cpp(2): fatal error C1083: Не удается открыть файл включение: Table.h: No such file or directory
+         test_set.cpp
+         test_main.cpp
+         test_heap.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\test\test_heap.cpp(2): fatal error C1083: Не удается открыть файл включение: d-heap.h: No such file or directory
+         test_graph.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\test\test_graph.cpp(2): fatal error C1083: Не удается открыть файл включение: graph.h: No such file or directory
+         test-queue.cpp
+         Создание кода...
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\test\test.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:24.67

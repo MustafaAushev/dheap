@@ -1,0 +1,13 @@
+﻿Сборка начата 22.06.2016 23:03:25.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Disjoint_set\Disjoint_set.vcxproj" в узле 4 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Disjoint_set.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\disjoint_set.cpp
+         disjoint_set.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Disjoint_set.lib" /NOLOGO Debug\disjoint_set.obj
+         Disjoint_set.vcxproj -> C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Disjoint_set.lib
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Disjoint_set\Disjoint_set.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:18.10

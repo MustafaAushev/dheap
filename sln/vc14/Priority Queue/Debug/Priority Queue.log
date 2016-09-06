@@ -1,0 +1,13 @@
+﻿Сборка начата 22.06.2016 23:03:44.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Priority Queue\Priority Queue.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Priority Queue.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\priority_queue.cpp
+         priority_queue.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Priority Queue.lib" /NOLOGO Debug\priority_queue.obj
+         Priority Queue.vcxproj -> C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Priority Queue.lib
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Priority Queue\Priority Queue.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.32

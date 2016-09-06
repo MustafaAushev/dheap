@@ -1,0 +1,11 @@
+﻿Сборка начата 22.06.2016 22:43:21.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\sample-Kruskal\sample-Kruskal.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\sample_Kruskal\sample_Kruskal.cpp
+         sample_Kruskal.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\sample_kruskal\sample_kruskal.cpp(1): fatal error C1083: Не удается открыть файл включение: kruskal.hpp: No such file or directory
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\sample-Kruskal\sample-Kruskal.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:03.07

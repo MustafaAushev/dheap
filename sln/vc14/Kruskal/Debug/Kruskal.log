@@ -1,0 +1,14 @@
+﻿Сборка начата 22.06.2016 23:50:35.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Kruskal\Kruskal.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kruskal.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Algorithm.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\algorithm.cpp
+         algorithm.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Algorithm.lib" /NOLOGO Debug\algorithm.obj
+         Kruskal.vcxproj -> C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Algorithm.lib
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Kruskal\Kruskal.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:19.98

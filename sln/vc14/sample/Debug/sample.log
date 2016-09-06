@@ -1,0 +1,37 @@
+﻿Сборка начата 22.06.2016 23:50:55.
+     1>Проект "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\sample\sample.vcxproj" в узле 3 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\sample_Dijkstra\sample_Dijkstra.cpp
+         sample_Dijkstra.cpp
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\include\graph.hpp(113): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\include\graph.hpp(107): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\sample_dijkstra\sample_dijkstra.cpp(28): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void Graph<typ>::CreateGraph(KeyType,KeyType)"
+                 with
+                 [
+                     KeyType=typ
+                 ]
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\sample_dijkstra\sample_dijkstra.cpp(17): note: см. ссылку на создание экземпляров класса шаблон при компиляции "Graph<typ>"
+     1>c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\include\algorithm.hpp(88): warning C4101: path: неиспользованная локальная переменная
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\include\algorithm.hpp(61): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\sample_dijkstra\sample_dijkstra.cpp(35): note: см. ссылку на создание экземпляров функции шаблон при компиляции "typ *Algorithm<typ>::Dijkstra(int,KeyType *&,Graph<KeyType> *&)"
+                 with
+                 [
+                     KeyType=typ
+                 ]
+         c:\users\anna\documents\учеба\программирование\mp2-lab4-graph\sample_dijkstra\sample_dijkstra.cpp(35): note: см. ссылку на создание экземпляров класса шаблон при компиляции "Algorithm<typ>"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\sample-Dijkstra.exe" /INCREMENTAL /NOLOGO /LIBPATH:../Debug Algorithm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\sample-Dijkstra.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\sample-Dijkstra.lib" /MACHINE:X86 Debug\sample_Dijkstra.obj
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Binary Tree.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\D-Heap.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Disjoint_set.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Graph.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Table.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Priority Queue.lib"
+         "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\Algorithm.lib"
+         sample.vcxproj -> C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\Debug\sample-Dijkstra.exe
+     1>Сборка проекта "C:\Users\Anna\Documents\Учеба\Программирование\mp2-lab4-graph\sln\vc14\sample\sample.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:08.48
